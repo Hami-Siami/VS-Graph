@@ -11,4 +11,4 @@ GNN Baselines:
 
 - GCN
 - GAT
-- GIN-\epsilon
+- GIN-$\epsilon$

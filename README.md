@@ -32,12 +32,7 @@ You can modify the Quick config section in the code to test different settings:
 `ALPHA`: Residual blend factor for the convex combination of node states
 
 ### Citation
-@article{poursiami2025vs,\
- title={VS-Graph: Scalable and Efficient Graph Classification Using Hyperdimensional Computing},\
-  author={Poursiami, Hamed and Snyder, Shay and Cong, Guojing and Potok, Thomas and Parsa, Maryam},\
-  journal={arXiv preprint arXiv:2512.03394},\
-  year={2025}\
-}
+
 ```bibtex
 @article{poursiami2025vsgraph,
   title   = {VS-Graph: Scalable and Efficient Graph Classification Using Hyperdimensional Computing},

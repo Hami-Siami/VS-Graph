@@ -33,13 +33,9 @@ You can modify the Quick config section in the code to test different settings:
 
 ### Citation
 @article{poursiami2025vs,\
-  title={VS-Graph: Scalable and Efficient Graph Classification Using Hyperdimensional Computing},
-  
-  author={Poursiami, Hamed and Snyder, Shay and Cong, Guojing and Potok, Thomas and Parsa, Maryam},
-  
-  journal={arXiv preprint arXiv:2512.03394},
-  
-  year={2025}
-  
+  title={VS-Graph: Scalable and Efficient Graph Classification Using Hyperdimensional Computing},\
+  author={Poursiami, Hamed and Snyder, Shay and Cong, Guojing and Potok, Thomas and Parsa, Maryam},\
+  journal={arXiv preprint arXiv:2512.03394},\
+  year={2025}\
 }
 

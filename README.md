@@ -2,7 +2,6 @@
 
 Official implementation for the paper: [**"VS-Graph: Scalable and Efficient Graph Classification Using Hyperdimensional Computing"**](https://arxiv.org/abs/2512.03394)
 
-
 ## 1. Overview
 VS-Graph is a novel vector-symbolic graph learning framework designed to bridge the gap between the computational efficiency of Hyperdimensional Computing (HDC) and the structural expressiveness of Message Passing Graph Neural Networks (GNNs).
 
